@@ -1,0 +1,5 @@
+ <!-- ******FOOTER****** -->
+    <footer class="footer">
+      <div class="container text-center"><small class="copyright">MY WEBSITE, <a href="https://github.com/smartergiving/free-nonprofit-starter-website" target="_blank">open source</a> project from the folks at <a href="http://smartergiving.org" target="_blank">SmarterGiving</a></small><br>
+        <small class="copyright">LEBRON<JORDAN <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank">Xiaoying Riley</a></small>
+      </div><!--//container--></footer><!--//footer-->
