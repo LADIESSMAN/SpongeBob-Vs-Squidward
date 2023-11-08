@@ -1,0 +1,11 @@
+/print/ SpongeBob ate one krabby patty himself
+/print/ You used BUBBLE SHOT but SQUIDWARD DODGED it
+print("\nSpongeBob dodged Squidwards tentacle attack .fast dodge.")
+	elif player_move == "Dodge" and enemy_move == "Dodge":
+		print("\nBoth of you dodged .both of you are scared.")
+	elif player_move == "Attack" and enemy_move == "Attack":
+		print("Both of you got hit by bubble and tentacles .both attack.")
+		player.take_damage(enemy.damage)
+		enemy.take_damage(player.damage)
+if player_move == "Attack":
+			print("You shot bubbles at squidward .fast attack.")
