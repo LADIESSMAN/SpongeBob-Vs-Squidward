@@ -1,0 +1,9 @@
+self.name  = name
+		self.health =  100
+		self.damage = 15
+		self.heal = 10
+		self.no_of_heals = 5
+	def take_damage(self, damage):
+		self.health -= damage
+	def heal_(self):
+		self.health += self.heal
